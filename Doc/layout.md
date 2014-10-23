@@ -32,7 +32,7 @@
 
                                             ¦
     esc    9     7     5     3     1        ¦        0     2     4     6     8    bsp
-          mnu   hom   pup   pdn   end    ~  ¦  `    lft    up   dwn   rgt   ins
+          ins   hom   pup   pdn   end    ~  ¦  `    lft    up   dwn   rgt   mnu
     tab    !     [     {     (     *        ¦        =     )     }     ]     +    rtn
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
@@ -60,7 +60,7 @@
 **cat** — mouse layer  
 **esc** — escape  
 **bsp** — backspace  
-**mnu** — menu  
+**ins** — insert  
 **hom** — home  
 **pup** — page up  
 **pdn** — page down  
@@ -69,7 +69,7 @@
 **up**  — up arrow  
 **dwn** — down arrow  
 **rgt** — right arrow  
-**ins** — insert  
+**mnu** — menu  
 **tab** — tab  
 **rtn** — return  
 **msd** — mouse speed down  
@@ -125,7 +125,7 @@
 
                                             ¦
      ⎋     9     7     5     3     1        ¦        0     2     4     6     8     ⌫
-           ▤     ⇱     ⇞     ⇟     ⇲     ~  ¦  `     ←     ↑     ↓     →     ⎀
+           ⎀     ⇱     ⇞     ⇟     ⇲     ~  ¦  `     ←     ↑     ↓     →     ▤
      ↹     !     [     {     (     *        ¦        =     )     }     ]     +     ↩
                                 ⌘     ✲     ¦     🔒     ␣
                                    ƒ     ⌥  ¦  ⇧     😸
