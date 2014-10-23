@@ -50,50 +50,50 @@
 
 ***
 
-cmd - command  
-ctr - control  
-spc - space  
-fun - function  
-alt - alt  
-shf - shift  
-esc - escape  
-bsp - backspace  
-srq - system request  
-hom - home  
-pup - page up  
-pdn - page down  
-end - end  
-lft - left arrow  
-up  - up arrow  
-dwn - down arrow  
-rgt - right arrow  
-ins - insert  
-tab - tab  
-rtn - return  
-msd - mouse speed down  
-mmd - mouse middle button  
-scr - mouse scroll  
-lmb - left mouse button  
-msu - mouse speed up  
-prv - previous song  
-msl - move mouse left  
-msu - move mouse up  
-msd - move mouse down  
-msr - move mouse right  
-nxt - next song  
-ply - play / pause  
-und - undo  
-cut - cut  
-cp -copy  
-pst - past  
-red - redo  
-vup - volume up  
-vdn - volume down  
-mut - mute  
-bdn - brightness down  
-bup - brightness up  
-stp - stop  
-mnu - menu  
+*cmd* — command  
+*ctr* — control  
+*spc* — space  
+*fun* — function  
+*alt* — alt  
+*shf* — shift  
+*esc* — escape  
+*bsp* — backspace  
+*srq* — system request  
+*hom* — home  
+*pup* — page up  
+*pdn* — page down  
+*end* — end  
+*lft* — left arrow  
+*up*  — up arrow  
+*dwn* — down arrow  
+*rgt* — right arrow  
+*ins* — insert  
+*tab* — tab  
+*rtn* — return  
+*msd* — mouse speed down  
+*mmd* — mouse middle button  
+*scr* — mouse scroll  
+*lmb* — left mouse button  
+*msu* — mouse speed up  
+*prv* — previous song  
+*msl* — move mouse left  
+*msu* — move mouse up  
+*msd* — move mouse down  
+*msr* — move mouse right  
+*nxt* — next song  
+*ply* — play / pause  
+*und* — undo  
+*cut* — cut  
+*cp*  — copy  
+*pst* — past  
+*red* — redo  
+*vup* — volume up  
+*vdn* — volume down  
+*mut* — mute  
+*bdn* — brightness down  
+*bup* — brightness up  
+*stp* — stop  
+*mnu* — menu  
 
 ***
 
