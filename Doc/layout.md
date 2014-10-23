@@ -32,7 +32,7 @@
 
                                             ¦
     esc    9     7     5     3     1        ¦        0     2     4     6     8    bsp
-          srq   hom   pup   pdn   end    ~  ¦  `    lft    up   dwn   rgt   ins
+          mnu   hom   pup   pdn   end    ~  ¦  `    lft    up   dwn   rgt   ins
     tab    !     [     {     (     *        ¦        =     )     }     ]     +    rtn
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
@@ -44,7 +44,7 @@
     F11    F9    F7    F5    F3    F1       ¦       F10    F2    F4    F6    F8   F12
           msd   mmb   scr   lmb   rmb   msu ¦ prv   msl   msu   msd   msr   nxt
     ply   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   stp
-                               cmd   ctr    ¦    qua   mnu
+                               cmd   ctr    ¦    qua   rsq
                                   fun   alt ¦ shf   cat
                                             ¦
 
@@ -60,7 +60,7 @@
 **cat** — mouse layer  
 **esc** — escape  
 **bsp** — backspace  
-**srq** — system request  
+**mnu** — menu  
 **hom** — home  
 **pup** — page up  
 **pdn** — page down  
@@ -95,7 +95,7 @@
 **bdn** — brightness down  
 **bup** — brightness up  
 **stp** — stop  
-**mnu** — menu  
+**srq** — system request  
 
 ***
 
@@ -125,7 +125,7 @@
 
                                             ¦
      ⎋     9     7     5     3     1        ¦        0     2     4     6     8     ⌫
-           ⎙     ⇱     ⇞     ⇟     ⇲     ~  ¦  `     ←     ↑     ↓     →     ⎀
+           ▤     ⇱     ⇞     ⇟     ⇲     ~  ¦  `     ←     ↑     ↓     →     ⎀
      ↹     !     [     {     (     *        ¦        =     )     }     ]     +     ↩
                                 ⌘     ✲     ¦     🔒     ␣
                                    ƒ     ⌥  ¦  ⇧     😸
@@ -137,7 +137,7 @@
      Ⅺ     Ⅸ     Ⅶ     Ⅴ     Ⅲ     Ⅰ        ¦        Ⅹ     Ⅱ     Ⅳ     Ⅵ     Ⅷ     Ⅻ
            ▽     🖱     🕹     🖯     🖰     △  ¦  ⏮     ◀     ▲     ▼     ▶     ⏯
      ⏯     ↺     ✂     🗊     📋     ↻        ¦        🔊     🔉     🔇     🔅     🔆     ◼
-                                ⌘     ✲     ¦     🔒     ▤
+                                ⌘     ✲     ¦     🔒     ⎙
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
 
