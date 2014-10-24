@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="nekoboard_1_2_5.svg"
-   inkscape:export-filename="/home/netsu/Creative/neko_board-1_2.png"
+   inkscape:export-filename="/home/netsu/Creative/neko_board-1_2_5.png"
    inkscape:export-xdpi="179.99875"
    inkscape:export-ydpi="179.99875">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="921.68077"
-     inkscape:cy="710.19109"
+     inkscape:cy="766.75963"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1791,7 +1791,7 @@
          y="630.39136"
          x="933.44678"
          id="tspan4473"
-         sodipodi:role="line">⏯</tspan></text>
+         sodipodi:role="line">⏭</tspan></text>
     <rect
        style="color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:#f0f0f0;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4477"
