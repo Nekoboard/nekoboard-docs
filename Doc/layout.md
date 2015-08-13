@@ -32,7 +32,7 @@
 
                                             ¦
      %     9     7     5     3     1        ¦        0     2     4     6     8     `
-          ins   hom   pup   pdn   end   del ¦ esc   lft    up   dwn   rgt   mnu
+          ins   hom   pup   pdn   end   del ¦ esc   lft    dwn  up    rgt   mnu
      ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
                                cmd   ctr    ¦    qua   tab
                                   fun   alt ¦ shf   cat
@@ -67,8 +67,8 @@
 **del** — delete  
 **esc** — escape  
 **lft** — left arrow  
-**up**  — up arrow  
 **dwn** — down arrow  
+**up**  — up arrow  
 **rgt** — right arrow  
 **tab** — tab  
 **rec** — record macro  
@@ -124,7 +124,7 @@
 
                                             ¦
      %     9     7     5     3     1        ¦        0     2     4     6     8     `
-           @     ⇱     ⇞     ⇟     ⇲     ⌦  ¦  ⎋     ←     ↑     ↓     →     &
+           @     ⇱     ⇞     ⇟     ⇲     ⌦  ¦  ⎋     ←     ↓     ↑     →     &
      ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
                                 ⌘     ✲     ¦     🔒     ↹
                                    ƒ     ⌥  ¦  ⇧     😸
