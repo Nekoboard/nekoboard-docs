@@ -44,7 +44,7 @@
     F11    F9    F7    F5    F3    F1       ¦       F10    F2    F4    F6    F8   F12
           msd   mmb   scr   lmb   rmb   msu ¦ prv   msl   msu   msd   msr   nxt
     ply   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   stp
-                               cmd   ctr    ¦    qua   rsq
+                               cmd   ctr    ¦    qua   srq
                                   fun   alt ¦ shf   cat
                                             ¦
 
