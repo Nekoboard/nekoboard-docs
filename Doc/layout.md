@@ -32,7 +32,7 @@
 
                                             ¦
     esc    9     7     5     3     1        ¦        0     2     4     6     8    bsp
-          ins   hom   pup   pdn   end    ~  ¦  `    lft    up   dwn   rgt   mnu
+          ins   hom   pup   pdn   end    `  ¦  ~    lft    up   dwn   rgt   mnu
     tab    !     [     {     (     *        ¦        =     )     }     ]     +    rtn
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
