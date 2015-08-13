@@ -64,7 +64,7 @@
 **pup** — page up  
 **pdn** — page down  
 **end** — end  
-**del** - delete  
+**del** — delete  
 **esc** — escape  
 **lft** — left arrow  
 **up**  — up arrow  
