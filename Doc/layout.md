@@ -43,36 +43,34 @@
                                             ¦
     F11    F9    F7    F5    F3    F1       ¦       F10    F2    F4    F6    F8   F12
           msd   mmb   scr   lmb   rmb   msu ¦ prv   msl   msu   msd   msr   nxt
-    ply   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   stp
+    ins   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   mnu
                                cmd   ctr    ¦    qua   srq
                                   fun   alt ¦ shf   cat
                                             ¦
 
 ***
 
+**bsp** — backspace  
+**ret** — return  
 **cmd** — command  
 **ctr** — control  
-**spc** — space  
 **qua** — quasi sticky  
+**spc** — space  
 **fun** — function  
 **alt** — alt  
 **shf** — shift  
 **cat** — mouse layer  
-**del** - delete  
-**tab** — tab  
-**ins** — insert  
 **hom** — home  
 **pup** — page up  
 **pdn** — page down  
 **end** — end  
+**del** - delete  
 **esc** — escape  
-**ret** — return  
 **lft** — left arrow  
 **up**  — up arrow  
 **dwn** — down arrow  
 **rgt** — right arrow  
-**mnu** — menu  
-**bsp** — backspace  
+**tab** — tab  
 **msd** — mouse speed down  
 **mmd** — mouse middle button  
 **scr** — mouse scroll  
@@ -84,7 +82,7 @@
 **msd** — move mouse down  
 **msr** — move mouse right  
 **nxt** — next song  
-**ply** — play / pause  
+**ins** — insert  
 **und** — undo  
 **cut** — cut  
 **cp**  — copy  
@@ -95,7 +93,7 @@
 **mut** — mute  
 **bdn** — brightness down  
 **bup** — brightness up  
-**stp** — stop  
+**mnu** — menu  
 **srq** — system request  
 
 ***
