@@ -42,7 +42,7 @@
 
                                             ¦
     F11    F9    F7    F5    F3    F1       ¦       F10    F2    F4    F6    F8   F12
-          msd   mmb   scr   lmb   rmb   msu ¦ bck   msl   msu   msd   msr   fwd
+          rec   mmb   scr   lmb   rmb   msu ¦ bck   msl   msu   msd   msr   fwd
     ins   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   mnu
                                cmd   ctr    ¦    qua   srq
                                   fun   alt ¦ shf   cat
@@ -71,11 +71,11 @@
 **dwn** — down arrow  
 **rgt** — right arrow  
 **tab** — tab  
-**msd** — mouse speed down  
+**rec** — record macro  
 **mmd** — mouse middle button  
 **scr** — mouse scroll  
 **lmb** — left mouse button  
-**msu** — mouse speed up  
+**exe** — execute macro  
 **bck** — browser back  
 **msl** — move mouse left  
 **msu** — move mouse up  
@@ -134,10 +134,10 @@
 
                                             ¦
      Ⅺ     Ⅸ     Ⅶ     Ⅴ     Ⅲ     Ⅰ        ¦        Ⅹ     Ⅱ     Ⅳ     Ⅵ     Ⅷ     Ⅻ
-           ▽     🖱     🕹     🖯     🖰     △  ¦  ◄     ◂     ▴     ▾     ▸     ►
+           ⏺     🖱     🕹     🖯     🖰     ▶  ¦  ◄     ◂     ▴     ▾     ▸     ►
      ⎀     ↶     ✂     🗊     📋     ↷        ¦        🔊     🔉     🔇     🔅     🔆     ▤
                                 ⌘     ✲     ¦     🔒     ⎙
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
 
-◄ ►
+
