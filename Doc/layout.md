@@ -11,9 +11,9 @@
 ##### => plain
 
                                             ¦
-     &     ;     ,     .     p     y        ¦        f     g     c     r     l     -
+     \     ;     ,     .     p     y        ¦        f     g     c     r     l     /
            a     o     e     u     i     #  ¦  $     d     h     t     n     s
-     \     '     q     j     k     x        ¦        b     m     w     v     z     /
+     &     '     q     j     k     x        ¦        b     m     w     v     z     _
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -21,9 +21,9 @@
 ##### => shifted
 
                                             ¦
-     %     :     <     >     P     Y        ¦        F     G     C     R     L     _
+     |     :     <     >     P     Y        ¦        F     G     C     R     L     +
            A     O     E     U     I     ^  ¦  @     D     H     T     N     S
-     |     "     Q     J     K     X        ¦        B     M     W     V     Z     ?
+     %     "     Q     J     K     X        ¦        B     M     W     V     Z     -
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -31,10 +31,10 @@
 ##### => function
 
                                             ¦
-    esc    9     7     5     3     1        ¦        0     2     4     6     8    bsp
-          ins   hom   pup   pdn   end    `  ¦  ~    lft    up   dwn   rgt   mnu
-    tab    !     [     {     (     *        ¦        =     )     }     ]     +    rtn
-                               cmd   ctr    ¦    qua   spc
+    tab    9     7     5     3     1        ¦        0     2     4     6     8    del
+          ins   hom   pup   pdn   end   esc ¦ rtn  lft    up   dwn   rgt   mnu
+     `     !     [     {     (     *        ¦        =     )     }     ]     ?     ~
+                               cmd   ctr    ¦    qua   bsp
                                   fun   alt ¦ shf   cat
                                             ¦
 
@@ -58,20 +58,21 @@
 **alt** — alt  
 **shf** — shift  
 **cat** — mouse layer  
-**esc** — escape  
-**bsp** — backspace  
+**tab** — tab  
+**del** - delete  
 **ins** — insert  
 **hom** — home  
 **pup** — page up  
 **pdn** — page down  
 **end** — end  
+**esc** — escape  
+**rtn** — return  
 **lft** — left arrow  
 **up**  — up arrow  
 **dwn** — down arrow  
 **rgt** — right arrow  
 **mnu** — menu  
-**tab** — tab  
-**rtn** — return  
+**bsp** — backspace  
 **msd** — mouse speed down  
 **mmd** — mouse middle button  
 **scr** — mouse scroll  
@@ -104,9 +105,9 @@
 ##### => plain
 
                                             ¦
-     &     ;     ,     .     p     y        ¦        f     g     c     r     l     -
+     \     ;     ,     .     p     y        ¦        f     g     c     r     l     /
            a     o     e     u     i     #  ¦  $     d     h     t     n     s
-     \     '     q     j     k     x        ¦        b     m     w     v     z     /
+     &     '     q     j     k     x        ¦        b     m     w     v     z     _
                                 ❖     ✲     ¦     🔒     ␣
                                    ƒ     ⎇  ¦  ⇧     😸
                                             ¦
@@ -114,9 +115,9 @@
 ##### => shifted
 
                                             ¦
-     %     :     <     >     P     Y        ¦        F     G     C     R     L     _
+     |     :     <     >     P     Y        ¦        F     G     C     R     L     +
            A     O     E     U     I     ^  ¦  @     D     H     T     N     S
-     |     "     Q     J     K     X        ¦        B     M     W     V     Z     ?
+     %     "     Q     J     K     X        ¦        B     M     W     V     Z     -
                                 ⌘     ⎈     ¦     🔒     ␣
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
@@ -124,10 +125,10 @@
 ##### => function
 
                                             ¦
-     ⎋     9     7     5     3     1        ¦        0     2     4     6     8     ⌫
-           ⎀     ⇱     ⇞     ⇟     ⇲     `  ¦  ~     ←     ↑     ↓     →     ▤
-     ↹     !     [     {     (     *        ¦        =     )     }     ]     +     ↩
-                                ⌘     ✲     ¦     🔒     ␣
+     ↹     9     7     5     3     1        ¦        0     2     4     6     8     ⌦
+           ⎀     ⇱     ⇞     ⇟     ⇲     ⎋  ¦  ↩     ←     ↑     ↓     →     ▤
+     `     !     [     {     (     *        ¦        =     )     }     ]     ?     ~
+                                ⌘     ✲     ¦     🔒     ⌫
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
 
