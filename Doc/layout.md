@@ -31,7 +31,7 @@
 ##### => function
 
                                             ¦
-    tab    9     7     5     3     1        ¦        0     2     4     6     8    del
+    del    9     7     5     3     1        ¦        0     2     4     6     8    tab
           ins   hom   pup   pdn   end   esc ¦ rtn  lft    up   dwn   rgt   mnu
      `     !     [     {     (     *        ¦        =     )     }     ]     ?     ~
                                cmd   ctr    ¦    qua   bsp
@@ -58,8 +58,8 @@
 **alt** — alt  
 **shf** — shift  
 **cat** — mouse layer  
-**tab** — tab  
 **del** - delete  
+**tab** — tab  
 **ins** — insert  
 **hom** — home  
 **pup** — page up  
@@ -125,7 +125,7 @@
 ##### => function
 
                                             ¦
-     ↹     9     7     5     3     1        ¦        0     2     4     6     8     ⌦
+     ⌦     9     7     5     3     1        ¦        0     2     4     6     8     ↹
            ⎀     ⇱     ⇞     ⇟     ⇲     ⎋  ¦  ↩     ←     ↑     ↓     →     ▤
      `     !     [     {     (     *        ¦        =     )     }     ]     ?     ~
                                 ⌘     ✲     ¦     🔒     ⌫
