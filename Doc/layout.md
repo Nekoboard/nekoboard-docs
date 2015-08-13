@@ -12,8 +12,8 @@
 
                                             ¦
      \     ;     ,     .     p     y        ¦        f     g     c     r     l     /
-           a     o     e     u     i     #  ¦  $     d     h     t     n     s
-     &     '     q     j     k     x        ¦        b     m     w     v     z     _
+           a     o     e     u     i    bsp ¦ ret    d     h     t     n     s
+     $     '     q     j     k     x        ¦        b     m     w     v     z     _
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -22,8 +22,8 @@
 
                                             ¦
      |     :     <     >     P     Y        ¦        F     G     C     R     L     +
-           A     O     E     U     I     ^  ¦  @     D     H     T     N     S
-     %     "     Q     J     K     X        ¦        B     M     W     V     Z     -
+           A     O     E     U     I    bsp ¦ ret    D     H     T     N     S
+     #     "     Q     J     K     X        ¦        B     M     W     V     Z     -
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -31,10 +31,10 @@
 ##### => function
 
                                             ¦
-    del    9     7     5     3     1        ¦        0     2     4     6     8    tab
-          ins   hom   pup   pdn   end   esc ¦ rtn  lft    up   dwn   rgt   mnu
-     `     !     [     {     (     *        ¦        =     )     }     ]     ?     ~
-                               cmd   ctr    ¦    qua   bsp
+     %     9     7     5     3     1        ¦        0     2     4     6     8     `
+          ins   hom   pup   pdn   end   del ¦ esc   lft    up   dwn   rgt   mnu
+     ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
+                               cmd   ctr    ¦    qua   tab
                                   fun   alt ¦ shf   cat
                                             ¦
 
@@ -66,7 +66,7 @@
 **pdn** — page down  
 **end** — end  
 **esc** — escape  
-**rtn** — return  
+**ret** — return  
 **lft** — left arrow  
 **up**  — up arrow  
 **dwn** — down arrow  
