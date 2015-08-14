@@ -43,7 +43,7 @@
                                             ¦
     F11    F9    F7    F5    F3    F1       ¦       F10    F2    F4    F6    F8   F12
           rec   mmb   scr   lmb   rmb   exe ¦ bck   msl   msd   msu   msr   fwd
-    ins   und   cut    cp   pst   red       ¦       vup   vdn   mut   bdn   bup   mnu
+    ins   und   cut    cp   pst   red       ¦       mut   vdn   vup   bdn   bup   mnu
                                cmd   ctr    ¦    qua   srq
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -88,9 +88,9 @@
 **cp**  — copy  
 **pst** — past  
 **red** — redo  
-**vup** — volume up  
-**vdn** — volume down  
 **mut** — mute  
+**vdn** — volume down  
+**vup** — volume up  
 **bdn** — brightness down  
 **bup** — brightness up  
 **mnu** — menu  
@@ -135,7 +135,7 @@
                                             ¦
      Ⅺ     Ⅸ     Ⅶ     Ⅴ     Ⅲ     Ⅰ        ¦        Ⅹ     Ⅱ     Ⅳ     Ⅵ     Ⅷ     Ⅻ
            ⏺     🖱     🕹     🖯     🖰     ▶  ¦  ◄     ◂     ▾     ▴     ▸     ►
-     ⎀     ↶     ✂     🗊     📋     ↷        ¦        🔊     🔉     🔇     🔅     🔆     ▤
+     ⎀     ↶     ✂     🗊     📋     ↷        ¦        🔇     🔉     🔊     🔅     🔆     ▤
                                 ⌘     ✲     ¦     🔒     ⎙
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
