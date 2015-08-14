@@ -32,7 +32,7 @@
 
                                             ¦
      %     9     7     5     3     1        ¦        0     2     4     6     8     `
-          ins   hom   pup   pdn   end   del ¦ esc   lft    dwn  up    rgt   mnu
+           @    hom   pup   pdn   end   del ¦ esc   lft    dwn  up    rgt    &
      ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
                                cmd   ctr    ¦    qua   tab
                                   fun   alt ¦ shf   cat
