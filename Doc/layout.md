@@ -11,9 +11,9 @@
 ##### => plain
 
                                             ¦
-     \     ;     ,     .     p     y        ¦        f     g     c     r     l     /
+     $     ;     ,     .     p     y        ¦        f     g     c     r     l     /
            a     o     e     u     i    bsp ¦ ret    d     h     t     n     s
-     $     '     q     j     k     x        ¦        b     m     w     v     z     _
+     \     '     q     j     k     x        ¦        b     m     w     v     z     _
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -21,9 +21,9 @@
 ##### => shifted
 
                                             ¦
-     |     :     <     >     P     Y        ¦        F     G     C     R     L     +
+     #     :     <     >     P     Y        ¦        F     G     C     R     L     +
            A     O     E     U     I    bsp ¦ ret    D     H     T     N     S
-     #     "     Q     J     K     X        ¦        B     M     W     V     Z     -
+     |     "     Q     J     K     X        ¦        B     M     W     V     Z     -
                                cmd   ctr    ¦    qua   spc
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -31,9 +31,9 @@
 ##### => function
 
                                             ¦
-     %     9     7     5     3     1        ¦        0     2     4     6     8     `
+     ~     9     7     5     3     1        ¦        0     2     4     6     8     %
            @    hom   pup   pdn   end   del ¦ esc   lft    dwn  up    rgt    &
-     ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
+     `     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
                                cmd   ctr    ¦    qua   tab
                                   fun   alt ¦ shf   cat
                                             ¦
@@ -103,9 +103,9 @@
 ##### => plain
 
                                             ¦
-     \     ;     ,     .     p     y        ¦        f     g     c     r     l     /
+     $     ;     ,     .     p     y        ¦        f     g     c     r     l     /
            a     o     e     u     i     ⌫  ¦  ↩     d     h     t     n     s
-     $     '     q     j     k     x        ¦        b     m     w     v     z     _
+     \     '     q     j     k     x        ¦        b     m     w     v     z     _
                                 ❖     ✲     ¦     🔒     ␣
                                    ƒ     ⎇  ¦  ⇧     😸
                                             ¦
@@ -113,9 +113,9 @@
 ##### => shifted
 
                                             ¦
-     |     :     <     >     P     Y        ¦        F     G     C     R     L     +
+     #     :     <     >     P     Y        ¦        F     G     C     R     L     +
            A     O     E     U     I     ⌫  ¦  ↩     D     H     T     N     S
-     #     "     Q     J     K     X        ¦        B     M     W     V     Z     -
+     |     "     Q     J     K     X        ¦        B     M     W     V     Z     -
                                 ⌘     ⎈     ¦     🔒     ␣
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
@@ -123,9 +123,9 @@
 ##### => function
 
                                             ¦
-     %     9     7     5     3     1        ¦        0     2     4     6     8     `
+     ~     9     7     5     3     1        ¦        0     2     4     6     8     %
            @     ⇱     ⇞     ⇟     ⇲     ⌦  ¦  ⎋     ←     ↓     ↑     →     &
-     ~     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
+     `     !     [     {     (     *        ¦        =     )     }     ]     ?     ^
                                 ⌘     ✲     ¦     🔒     ↹
                                    ƒ     ⌥  ¦  ⇧     😸
                                             ¦
